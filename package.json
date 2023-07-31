@@ -1,8 +1,8 @@
 {
-  "name": "1",
+  "name": "corejs-todo-list",
   "version": "1.0.0",
-  "description": "",
-  "main": "test1.js",
+  "description": "Core JS TODO app",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
